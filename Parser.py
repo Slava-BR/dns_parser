@@ -49,7 +49,7 @@ BASE_DNS = "https://www.dns-shop.ru"
 
 # Changes periodically
 COOKIES = string_to_dict(
-    "phonesIdent=3cc9692a991b8df291d4c66b9b1ecd683c049ff0a765378795f3ad43eb74410ea%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%22c73dbed1-42cd-44c7-b5db-d30ec08da927%22%3B%7D; ipp_uid=1670052047669/WM9bE0ovZ77HEIOB/RFPZFiAYYIZxOJsaeuaCkA==; guest_default_shop=d49d7ba5-268a-4c51-9615-a48124fd2918; current_path=cd696e88b11355116e4e64e21c3f9645727cbd331e57bc9031771a93efec8d27a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A109%3A%22%7B%22city%22%3A%22cd1f0fe4-3292-11e1-9afa-001517c526f0%22%2C%22cityName%22%3A%22%5Cu0422%5Cu0432%5Cu0435%5Cu0440%5Cu044c%22%2C%22method%22%3A%22manual%22%7D%22%3B%7D; date-user-last-order-v2=8d584d4ecd75968dcfbf3ba7c0decdc5bf797fba72900bf459b1fc50f7e288d7a%3A2%3A%7Bi%3A0%3Bs%3A23%3A%22date-user-last-order-v2%22%3Bi%3A1%3Bi%3A1677587925%3B%7D; spid=1678462357059_0fe35a50079f9052742137490c994e42_e4perrin1pcawwap; ipp_sign=2e0fa55818d31fb6185643b7994bdf67_2088042140_b6a6d964f6c4390c02c07e1d4559106c; cartUserCookieIdent_v3=733ec86910ae542a8bb561ffe789e3227ffe36119064d43e31df809ef3c75d5ba%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%22d83b9d54-de81-37b9-bf59-48457ed8af81%22%3B%7D; cookieImagesUploadId=010b289b2139d61211016a61171558e1a7c10eed0e0ea889f2ec73aa5a19024da%3A2%3A%7Bi%3A0%3Bs%3A20%3A%22cookieImagesUploadId%22%3Bi%3A1%3Bs%3A36%3A%22e3aa7846-61d9-49ac-8bdc-935526b38f01%22%3B%7D; PHPSESSID=a3b223ab16fd62cda20af74b1e929e94; lang=ru; city_path=tver; qrator_jsid=1690531640.747.TVYvTrMhxZ5WFjeG-o63gah13ild28nk02m78erjbe7oqoq0q")
+    "phonesIdent=3cc9692a991b8df291d4c66b9b1ecd683c049ff0a765378795f3ad43eb74410ea%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%22c73dbed1-42cd-44c7-b5db-d30ec08da927%22%3B%7D; ipp_uid=1670052047669/WM9bE0ovZ77HEIOB/RFPZFiAYYIZxOJsaeuaCkA==; guest_default_shop=d49d7ba5-268a-4c51-9615-a48124fd2918; current_path=cd696e88b11355116e4e64e21c3f9645727cbd331e57bc9031771a93efec8d27a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A109%3A%22%7B%22city%22%3A%22cd1f0fe4-3292-11e1-9afa-001517c526f0%22%2C%22cityName%22%3A%22%5Cu0422%5Cu0432%5Cu0435%5Cu0440%5Cu044c%22%2C%22method%22%3A%22manual%22%7D%22%3B%7D; date-user-last-order-v2=8d584d4ecd75968dcfbf3ba7c0decdc5bf797fba72900bf459b1fc50f7e288d7a%3A2%3A%7Bi%3A0%3Bs%3A23%3A%22date-user-last-order-v2%22%3Bi%3A1%3Bi%3A1677587925%3B%7D; spid=1678462357059_0fe35a50079f9052742137490c994e42_e4perrin1pcawwap; ipp_sign=2e0fa55818d31fb6185643b7994bdf67_2088042140_b6a6d964f6c4390c02c07e1d4559106c; cartUserCookieIdent_v3=733ec86910ae542a8bb561ffe789e3227ffe36119064d43e31df809ef3c75d5ba%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%22d83b9d54-de81-37b9-bf59-48457ed8af81%22%3B%7D; cookieImagesUploadId=010b289b2139d61211016a61171558e1a7c10eed0e0ea889f2ec73aa5a19024da%3A2%3A%7Bi%3A0%3Bs%3A20%3A%22cookieImagesUploadId%22%3Bi%3A1%3Bs%3A36%3A%22e3aa7846-61d9-49ac-8bdc-935526b38f01%22%3B%7D; PHPSESSID=a3b223ab16fd62cda20af74b1e929e94; lang=ru; city_path=tver; qrator_jsr=1690567735.818.MfFYKZaRRi0oL1VY-kosn7so0b0kmp7cjrqt51r1gfkadjch4-00; qrator_jsid=1690567735.818.MfFYKZaRRi0oL1VY-69rnc5pe6mskrggg4vlbuun5i00uims4")
 
 # May not be changed
 HEADERS = {"User-Agent":
@@ -142,34 +142,36 @@ def parser_product(path: str, product: PageElement) -> int or str:
             return "no product"
 
         # BRAND
-        brand_soup = soup_product.find('li', {
-            'class': 'breadcrumb-list__item initial-breadcrumb initial-breadcrumb_manufacturer'}).find('a', {
-            'class': 'ui-link ui-link_black'})
-        title = brand_soup.get("href").split("=")[1]
-        if title not in REGISTER_BRAND.keys():
-            brand = parser_brand(url=BASE_DNS + "/brand/" + title)
-            brand["title"] = title
-            os.mkdir(f"{path}/{title}")
-            # parse image
-            if brand["img"] is not None:
-                brand_img_response = requests.get(url=brand["img"], headers=HEADERS, cookies=COOKIES)
-                status_code = product_response.status_code
-                if status_code != 200:
-                    return status_code
+        title = None
+        brand_soup = soup_product.find('li', {'class': 'breadcrumb-list__item initial-breadcrumb initial-breadcrumb_manufacturer'})
+        if brand_soup is not None:
+            brand_soup = brand_soup.find('a', {'class': 'ui-link ui-link_black'})
+            if brand_soup is not None:
+                title = brand_soup.get("href").split("=")[1]
+                if title not in REGISTER_BRAND.keys():
+                    brand = parser_brand(url=BASE_DNS + "/brand/" + title)
+                    brand["title"] = title
+                    os.mkdir(f"{path}/{title}")
+                    # parse image
+                    if brand["img"] is not None:
+                        brand_img_response = requests.get(url=brand["img"], headers=HEADERS, cookies=COOKIES)
+                        status_code = product_response.status_code
+                        if status_code != 200:
+                            return status_code
 
-                # save the brand logo
-                if brand_img_response.status_code == requests.codes.OK:
-                    with open(f'{path}/{title}/{title}.jpg', 'wb') as f:
-                        for chunk in brand_img_response:
-                            f.write(chunk)
+                        # save the brand logo
+                        if brand_img_response.status_code == requests.codes.OK:
+                            with open(f'{path}/{title}/{title}.jpg', 'wb') as f:
+                                for chunk in brand_img_response:
+                                    f.write(chunk)
 
-            # this dictionary will store the main information about the brand
-            main_info_producer = {"producer_title": brand["title"], "producer_description": brand["description"]}
+                    # this dictionary will store the main information about the brand
+                    main_info_producer = {"producer_title": brand["title"], "producer_description": brand["description"]}
 
-            # save it in json format, the file will be stored in the folder with the product number
-            with open(f"{path}/{title}/{product_number}_main.json", "w", encoding='utf-8') as write_file:
-                json.dump(main_info_producer, write_file, ensure_ascii=False)
-            REGISTER_BRAND[title] = True
+                    # save it in json format, the file will be stored in the folder with the product number
+                    with open(f"{path}/{title}/{product_number}_main.json", "w", encoding='utf-8') as write_file:
+                        json.dump(main_info_producer, write_file, ensure_ascii=False)
+                    REGISTER_BRAND[title] = True
 
         #PRODUCT
         product_name = soup_product.find('div', {'class': 'product-card-top__name'}).text
@@ -179,7 +181,7 @@ def parser_product(path: str, product: PageElement) -> int or str:
         path += f"/{product_number}"
         os.mkdir(path)
         # this dictionary will store the main information about the product
-        main_info_product = {"product_number": product_number, "product_name": product_name}
+        main_info_product = {"product_number": product_number, "product_name": product_name, "product_brand": title}
 
         # save it in json format, the file will be stored in the folder with the product number
         with open(f"{path}/{product_number}_main.json", "w", encoding='utf-8') as write_file:
@@ -242,9 +244,8 @@ def parser_catalog(url: str = BASE_DNS) -> int or str:
         for section in sections:
             url_section = section.find('a', {'class': "catalog-menu__link-wrapper"}).get("href")
             title = section.find('a', {'class': "catalog-menu__root-item-info catalog-menu__root-item-title"}).text
-            directory_to_save += "/" + title
-            os.mkdir(directory_to_save)
-            status_code = subcategory_parser(url=BASE_DNS + url_section, path=directory_to_save)
+            os.mkdir(directory_to_save + "/" + title)
+            status_code = subcategory_parser(url=BASE_DNS + url_section, path=directory_to_save + "/" + title)
     return status_code
 
 
